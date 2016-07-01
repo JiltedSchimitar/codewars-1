@@ -1,6 +1,6 @@
 # codewars
 
-My solutions to exercises on [Codewars](http://www.codewars.com/r/DPpmjw), ranking 8 kuys (the lowest rank) and up.
+My solutions to exercises on [Codewars](http://www.codewars.com/r/DPpmjw), ranking 8 kuys (the easiest) and up.
 
 ### 8 kyu
 * [Convert a number to reversed array of digits](https://www.codewars.com/kata/convert-number-to-reversed-array-of-digits/javascript)
