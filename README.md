@@ -10,6 +10,7 @@ My solutions to exercises on [Codewars](http://www.codewars.com/r/DPpmjw), ranki
 
 ### 7 kyu
 * Count a function's arguments with [Argue the toss](https://www.codewars.com/kata/5758a91bbd1fdd2033000947)
+* [Write it like Jaden](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 
 ### 6 kyu
 * String formatting with [Bart, Lisa & Maggie](https://www.codewars.com/kata/53368a47e38700bd8300030d)
